@@ -1,2 +1,2 @@
-# JoBu.gihub.io
+# JoBu.github.io
 Website
